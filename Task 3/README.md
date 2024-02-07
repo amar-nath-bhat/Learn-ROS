@@ -22,3 +22,10 @@ You can find the ROS package [here](tutorials)
 **Turtle Draw Polygon with Client-Server Model**
 
 <img src="Data/turtle_polygon.png">
+
+**Additional Task**
+
+<img src="Data/additional1.png">
+<img src="Data/additional2.png">
+<img src="Data/additional3.png">
+<img src="Data/additional4.png">
